@@ -1,0 +1,19 @@
+@charset "utf-8";
+*.pra{
+    background-color: aqua;
+}
+
+body.man{text-align:center;}
+
+.res{
+    background-color:red;}
+.rea{
+    background-color: green;
+}
+.rez{
+    background-color: yellow;
+}
+
+.ppp{
+    font-size: 50px;
+}
